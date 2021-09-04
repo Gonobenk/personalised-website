@@ -55,6 +55,9 @@ hr {
   position: absolute;
   left: 1000px;
 }
+.mountain{
+  width:50%;
+}
 .btm-cloud {
   position: absolute;
   bottom: 300px;
